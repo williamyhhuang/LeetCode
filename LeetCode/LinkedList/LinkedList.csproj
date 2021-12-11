@@ -13,8 +13,45 @@
     <Folder Include="SinglyLinkedList\LinkedListCycle\" />
     <Folder Include="SinglyLinkedList\IntersectionOfTwoLinkedLists\" />
     <Folder Include="SinglyLinkedList\RemoveNthNodeFromEndOfList\" />
-    <Folder Include="SinglyLinkedList\ReverseLinkedList\" />
     <Folder Include="SinglyLinkedList\RemoveLinkedListElements\" />
     <Folder Include="SinglyLinkedList\OddEvenLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\ReverseLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\OddEvenLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\LinkedListCycle\" />
+    <Folder Include="LinkedList\SinglyLinkedList\DesignLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\RemoveLinkedListElements\" />
+    <Folder Include="LinkedList\SinglyLinkedList\PalinDromeLinkedList\" />
+    <Folder Include="LinkedList\SinglyLinkedList\IntersectionOfTwoLinkedLists\" />
+    <Folder Include="LinkedList\SinglyLinkedList\RemoveNthNodeFromEndOfList\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\OddEvenLinkedList\Solution.cs">
+      <Link>SinglyLinkedList\OddEvenLinkedList\Solution.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\LinkedListCycle\LinkedListCycleOne.cs">
+      <Link>SinglyLinkedList\LinkedListCycle\LinkedListCycleOne.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\LinkedListCycle\LinkedListCycleTwo.cs">
+      <Link>SinglyLinkedList\LinkedListCycle\LinkedListCycleTwo.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\DesignLinkedList\MyLinkedList.cs">
+      <Link>SinglyLinkedList\DesignLinkedList\MyLinkedList.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\RemoveLinkedListElements\Solution.cs">
+      <Link>SinglyLinkedList\RemoveLinkedListElements\Solution.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\PalinDromeLinkedList\Solution.cs">
+      <Link>SinglyLinkedList\PalinDromeLinkedList\Solution.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\IntersectionOfTwoLinkedLists\Solution.cs">
+      <Link>SinglyLinkedList\IntersectionOfTwoLinkedLists\Solution.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\RemoveNthNodeFromEndOfList\Solution.cs">
+      <Link>SinglyLinkedList\RemoveNthNodeFromEndOfList\Solution.cs</Link>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="SinglyLinkedList\ReverseLinkedList\Solution.cs">
+      <Link>SinglyLinkedList\ReverseLinkedList\Solution.cs</Link>
+    </Compile>
   </ItemGroup>
 </Project>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList.csproj",
+      "projectUniqueName": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList/LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList.csproj",
+      "projectPath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList/LinkedList.csproj",
       "packagesPath": "/Users/YH/.nuget/packages/",
-      "outputPath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/obj/",
+      "outputPath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/YH/.config/NuGet/NuGet.Config"

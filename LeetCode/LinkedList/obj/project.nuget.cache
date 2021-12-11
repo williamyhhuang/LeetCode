@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "puMQ4otpCC+NqpvgEN38tWk6hZFokzBxjuv7LkHWOWW/qFf/nR7V6qp6veexTXlJdL1AN1ZEXmL+2GpBTfBMtQ==",
+  "dgSpecHash": "1P5rl35Tycj+ciSOG5LDoyzjXPBjLTpD6thF7a1NciKCSnxb0VmD8qedwMS7ith6f8ZI+sFKdIbVxlfwChSBBA==",
   "success": true,
-  "projectFilePath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList.csproj",
+  "projectFilePath": "/Users/YH/Desktop/Blog/LeetCode/LeetCode/LinkedList/LinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
