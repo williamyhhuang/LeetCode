@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="SinglyLinkedList\" />
+    <Folder Include="SinglyLinkedList\DesignLinkedList\" />
+    <Folder Include="SinglyLinkedList\PalinDromeLinkedList\" />
+    <Folder Include="SinglyLinkedList\LinkedListCycle\" />
+    <Folder Include="SinglyLinkedList\IntersectionOfTwoLinkedLists\" />
+    <Folder Include="SinglyLinkedList\RemoveNthNodeFromEndOfList\" />
+    <Folder Include="SinglyLinkedList\ReverseLinkedList\" />
+    <Folder Include="SinglyLinkedList\RemoveLinkedListElements\" />
+    <Folder Include="SinglyLinkedList\OddEvenLinkedList\" />
+  </ItemGroup>
+</Project>
